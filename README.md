@@ -19,7 +19,7 @@ Responsive design for cross-device compatibility.
 
 
 
-3. INTRODUCTION:
+2. INTRODUCTION:
 BACKGROUND:
 As the demand for full stack web developers continues to rise, our e-learning 
 platform seeks to provide a comprehensive and hands-on Full Stack Web 
@@ -28,7 +28,7 @@ course benefits and encourage user enrollment.
 
 
 
-4. TECHNOLOGIES USED :
+3. TECHNOLOGIES USED :
 I. HTML (HyperText Markup Language):
 HTML is the backbone of web development, providing the structure for the 
 content on the landing page.
@@ -67,7 +67,7 @@ versatility and extensive extensions.
 
 
 
-5. STEPS TAKEN :
+4. STEPS TAKEN :
    
 1. DESIGN PROCESS:
 I. Research and Inspiration:
@@ -120,7 +120,7 @@ and gain insights into the landing page's performance.
 
 
 
-6. CHALLENGES FACED AND SOLUTIONS IMPLEMENTED :
+5. CHALLENGES FACED AND SOLUTIONS IMPLEMENTED :
    
 i. Content Clarity:
 • Challenge: Balancing comprehensive information with simplicity posed a 
@@ -149,7 +149,7 @@ extensive testing on different devices.
 
 
 
-7. LEARNING OUTCOMES :
+6. LEARNING OUTCOMES :
  
 • Iterative Development: Embraced an iterative development approach, 
 allowing for continuous feedback and refinement throughout the project.
@@ -170,7 +170,7 @@ components, such as the grid system, navigation bars, forms, and utility
 classes.
 
 
-8. PROJECT UPDATE : Given Task-2 Is Successfully Completed.
+7. PROJECT UPDATE : Given Task-2 Is Successfully Completed.
    
 The successful design and development of the landing page for our Full Stack 
 Web Development course contribute significantly to our online presence and 
